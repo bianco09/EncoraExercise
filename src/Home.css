@@ -1,0 +1,15 @@
+.characters {
+    display: flex;
+    flex-wrap: wrap;
+    width: 20%;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+.image {
+    width: 32%;
+}
+
+.image img {
+    width: 100%;
+}
